@@ -1,0 +1,34 @@
+// DRAW AN IMAGE FROM A FILE, AND AN EDITABLE NAME FIELD
+
+shape main
+
+{
+
+     addsubshape ("theimage", 100, 100);
+
+     addsubshape ("namecompartment", 100, 100);
+
+
+     shape theimage
+
+     {
+
+               image ("Azure Technology::Azure API Management_COLOR.png", 0, 0, 100, 100);
+
+               // "element image" being the name of the image that is loaded into the Image Manager
+
+     }
+
+     shape namecompartment
+
+     {
+
+               h_align = "center";
+
+               editablefield = "name";
+
+               println ("#name#");
+
+     }
+
+}
