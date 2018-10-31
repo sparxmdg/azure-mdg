@@ -4,16 +4,16 @@
 	<Content>
 		<Stereotypes>
 			<Stereotype name="AzureAPIManagement" notes="" cx="174" cy="70" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
-				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAMauXk2gss11igEAAIIEAAAHABEAc3RyLmRhdFVUDQAHC9PYWwvT2FsL09hb
-lVNNS8NAEH3XCv6HJb1UEKNHFQ/RVgnUD0rBo6S1bQJtEhI9qPS/+2Y3SSdWS2VJdmZ29s2b
-N4kPHwZ9jBDgmVaAB75D3NO6w4D2Lc8e6cuZeCGGjB9Xuf3mzoB2iDG9a5thGA14z2GE3IfM
-OMSBfUrEiJBjxtMVrQSpjX81GR0UPJ3ijacpFljS6+HUVnbvM+7aOsKlvWmqFeGVq8Q7Jq16
-PXhEjWkntvaClmdxzis82f+DltJbWbYZ95xewQoSSbk77L/Y6hoa9ydDnadV6qgcxybAJ1mK
-eobzEFYxeWRUMGPWBy64dE6AJ87HcFaitEOqub/ghtMf8hnhhMxkEq6ffSahOdfLt1+cR3yZ
-aF3HtGZhqLH0LtVqJUyjsmEfcxXX/UssqvBKvqVnmdyMj8SkVqbuhuqu7r/Y4r/eirTntfsb
-aN/bzE8rs71i6h+xh4ScUvpXEOWmFaaw9HYo3V6iQGL/polVfk5PZiC6ONy6g/0xczJwmi4t
-P/n6ug1Ol97vX8JGyzW+AVBLAQIXCxQAAAAIAMauXk2gss11igEAAIIEAAAHAAkAAAAAAAAA
-AAAAgAAAAABzdHIuZGF0VVQFAAcL09hbUEsFBgAAAAABAAEAPgAAAMABAAAAAA==</Image>
+				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAFS3Xk2TBAr3hAEAAIYEAAAHABEAc3RyLmRhdFVUDQAHEuLYWxLi2FsS4thb
+pVNNS8NAEH3XCv6HJb1UEKNHFQ/RVgnED4rgUdLaNoE2CY0eVPrffbP5mpgSBBk2OzM7O/Pm
+zcaFC4MxpvDwQs3DA78+7qndYUL9lmePtOVMLB8B/cdl7Li+M6Hu45nWtY0w9Hq8V+TwuQeM
+OMSBXTkihMiw4OmGWozE+r/riAG2PJ3jnacJVljTGuHUVi6+Z9y1doRLe9OUEuKNkuMDs1a9
+ERxmjajHtvaKmvPvjAmtjUWccs9obVlFPAn3/vy6hs77G6WO00wNVEyBxsMXUQqDhjMRVBFx
+pGQxZdQnLig6xsMTZ2Q4L2G7yFRhf8UNX0DANcUJkck0mn70fq72fb1V4tpX5zC/TLWqY1rz
+MORYepdqFROmZtmwj6Xy6/7FF5b5cn6lZ5ncgkt8UitVd311V/e/7eDfdTztefW/gfa9Zn6a
+ma5E5D9kDzExJbSvIMzNy5yC0ulhui3CQGz/qJllfklLZiC8FHmrDv6eMyOCgtO1xSevb1jn
+GdLa/xIaLnf4AVBLAQIXCxQAAAAIAFS3Xk2TBAr3hAEAAIYEAAAHAAkAAAAAAAAAAAAAgAAA
+AABzdHIuZGF0VVQFAAcS4thbUEsFBgAAAAABAAEAPgAAALoBAAAAAA==</Image>
 				<AppliesTo>
 					<Apply type="Component">
 						<Property name="isIndirectlyInstantiated" value="true"/>
@@ -21,16 +21,16 @@ AAAAgAAAAABzdHIuZGF0VVQFAAcL09hbUEsFBgAAAAABAAEAPgAAAMABAAAAAA==</Image>
 				</AppliesTo>
 			</Stereotype>
 			<Stereotype name="AzureServiceBus" notes="" cx="174" cy="70" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
-				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAOCuXk0+F4PVjQEAALoEAAAHABEAc3RyLmRhdFVUDQAHRNPYW0TT2FtE09hb
-lVNNS8NAEH1XBf/Dkl4qiNGjiofUVgmkClXwKGltm0CbhEQFlf533+zmY2ujRpbNzszOvpl5
-M3HhQmGICTw8UvJwy6+PMaUbjChf8+6OutyJ5iOg/aj0HdZvRpR9PFAbaA9Fq8d3BsPnGdDj
-APt6F4gQIsOct2tKMZL67rOW9pDTY4YXeiRYYkWtjxMd3XxPedrSIS70S1WuEM9cBV4x3YrZ
-h0PUiHKs4y8pORrnrMST8z9oCbW1zjblmVHLGUEsCU+D/VO21a7iqC3073nuejeMNba21WCY
-nD18sBbhWLFzknvEbFPynNLrHedcts89vzneiDPT+oA3BZ5wxQkJuCc4Zs7SKVNvl079nbWr
-Z9RhROl/xahdjUNtqjmS2BVjqu6JYj0Ly27zILawxCv4ldqlz3NusUms1HrrW2/HkLk0Wt5S
-zabFZnf295nZfdu1zxF7ErKSmJkl1C8h/EnPBFdydTqzLzzE+g+cav4X1KQTwo7Brarojpkx
-A8PsSucns9ircXrU2qej4XODL1BLAQIXCxQAAAAIAOCuXk0+F4PVjQEAALoEAAAHAAkAAAAA
-AAAAAAAAgAAAAABzdHIuZGF0VVQFAAdE09hbUEsFBgAAAAABAAEAPgAAAMMBAAAAAA==</Image>
+				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAIi5Xk26WWgjiQEAAL4EAAAHABEAc3RyLmRhdFVUDQAHdOXYW3Tl2Ft05dhb
+pVPLSsNAFD1bBf9hSDcVxOhSxUVqqwRShSq4lKS2TaBNQqKCSv/dcyevSRtKQIbJfcx9nntj
+w4bCGDM4eCXn4JFfF1NyD5iQv+fbE2V5E8mFR/1ZaTuufSbkXbxQGmkLRa1DvyKGS+rR4gTH
++uYI4SPFgq8bchHi+u235o6Q0WKOD1rEWGFNaYgLnb34XpKa3ClutKcqj493nhyfCFo5h7AY
+NSQf6fwrcta/I8aUNrrihDSllDGLaGLSw/GrW+VRrei7te5bN6g1uq7TxChqdvDDXgRnxelJ
+7SGrTYh1QqtvXPOYNs/8ZvhinLmWR3zJ8YY7bonHO8M5a5ZpNf2a9MqgZu+7dbaPrffUYkbZ
+gQpRsxuLUqAxktwVYqqeiWI/S0Nv4iA6v4yX8yu9y5wXvKKTXInh6xq+U8huFlLW0c22Q2dO
+9vDO7Pv2nXPImfjsJGJlMeVbCH4yM4krtVq90RccIv0XBhr/JSWZhKBTxK266B8zZQUFsmtd
+n+zioI4zoNS9HQ2eW/wBUEsBAhcLFAAAAAgAiLleTbpZaCOJAQAAvgQAAAcACQAAAAAAAAAA
+AACAAAAAAHN0ci5kYXRVVAUAB3Tl2FtQSwUGAAAAAAEAAQA+AAAAvwEAAAAA</Image>
 				<AppliesTo>
 					<Apply type="Component">
 						<Property name="isIndirectlyInstantiated" value="true"/>
@@ -38,16 +38,16 @@ AAAAAAAAgAAAAABzdHIuZGF0VVQFAAdE09hbUEsFBgAAAAABAAEAPgAAAMMBAAAAAA==</Image>
 				</AppliesTo>
 			</Stereotype>
 			<Stereotype name="AzureIoTHub" notes="" cx="174" cy="70" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
-				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAMauXk2Nzr8OgAEAAKYEAAAHABEAc3RyLmRhdFVUDQAHK9PYWyvT2Fsr09hb
-lVNNS8NAEH1XBf/Dkl4qiNGjiodIqwZaBSn0KG1tm0KahFQPKv3vvpnNx9ZGjSybnZmdffP2
-zcaHD4MenhBgTCvAA78hhrTu0Kd9y71H+rInXogB4ydFbq8606cdYkTvRjMMowHPWYyQ64AZ
-RzjUuUGECTLMubumtUJS7X1W1gFyZszwyowES8T0ujjT6vZ7ztW1jnGlJ00xJnjh2OAN052a
-XXhEjWivtP6Slqc4FwWerP9BS+itlW3KNaOXs4JEEq4W+ye25SzrmB307zz3s2vF6ljTqDEs
-5wAfvItobNg54R6RbUqdU2a945LDzQkZH3G9VwVOyU+6Yu/Wpit/M/T1PXqsJr0u1XOZe/Sm
-qofULtUxlf6GHBdO3L2zxCYF3oZfuaf0dM4pMamVOmdD5+wQ8gatlzfcZtsQc7v4+/vYP9u2
-pxGeiRWT/ZJIBtcQ/WYFrnD1WqsvOqz0b5uq/gt60glRx+KWt2iPmZGBVTZWfvLuOhVOh17z
-66j13OILUEsBAhcLFAAAAAgAxq5eTY3Ovw6AAQAApgQAAAcACQAAAAAAAAAAAACAAAAAAHN0
-ci5kYXRVVAUAByvT2FtQSwUGAAAAAAEAAQA+AAAAtgEAAAAA</Image>
+				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAEq8Xk3pxyzrfgEAAJwEAAAHABEAc3RyLmRhdFVUDQAHferYW33q2Ft96thb
+pVPLSsNAFD1bBf9hSDcVxOhSxUWkVQOtghRcSlLbJJAmJdGFSv/dc2fymLSxFGSY3Mfcx5lz
+Jy5cKIzwAg+v1Dw88etjSu0BY+r3PHumLWdi+ZjQf1bFjpqcMXUfM1p3OkLR6zHP1PApJ4w4
+wbHeJWIEWGPB0xW1BFlz9tNoRygYMccHIzJESGkNcaG7m+8lpa2d4kZnqmoFeOcq8Ymw03MI
+h1Vj6onuH1Fz/l0xo7XSiHPKNa2CXcSTUe6vX++6j+pU38a6G92y1vrMarMMSg/fRC/MKs5L
+0MbEl5PdnFFfuOayY3z6Z5SP+s7nRCSzaG9jyytL2jfbxtRdrn6FDrvJhGu+bOQOrVAzIL1r
+PlTDuCLGpeW37yy+oKpX8iv3lCkuuMUnvXIr17dyp5CXZ6yi5zabHp89t/0vYjf37yl2V4w3
+1kqJPmIlhVsIf/OqrmB1DmZfeEj0PxZq/pe0ZBLCjqlb3+LwmmsiMMymGp+8u0FTZ0Cr/3W0
+fG7wC1BLAQIXCxQAAAAIAEq8Xk3pxyzrfgEAAJwEAAAHAAkAAAAAAAAAAAAAgAAAAABzdHIu
+ZGF0VVQFAAd96thbUEsFBgAAAAABAAEAPgAAALQBAAAAAA==</Image>
 				<AppliesTo>
 					<Apply type="Component">
 						<Property name="isIndirectlyInstantiated" value="true"/>
@@ -55,17 +55,16 @@ ci5kYXRVVAUAByvT2FtQSwUGAAAAAAEAAQA+AAAAtgEAAAAA</Image>
 				</AppliesTo>
 			</Stereotype>
 			<Stereotype name="AzureActiveDirectory" notes="" cx="174" cy="70" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
-				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAPauXk1UWWcvjwEAAMQEAAAHABEAc3RyLmRhdFVUDQAHX9PYW1/T2Ftf09hb
-lVNNS8NAEH1XBf/Dkl4qiNWjiodoqwRahVLwKGltm0CbhFaFKv3vvpnNx9ZGjSybnZmdeTP7
-ZtJBBwZdDOHjiZKPB34DDCjdo0f5jneP1OVOtAB92k9y324Z06McYETtRj0MrT7jLEbAs0+P
-IxzqXiNCiAxT3i4pxUjKu89SOsCKHhO80iPBHAtqbZxpdvs95+lKx7jSSJOvEC9ca7xhvJOz
-DY+oEeVY888peYpzkePJ+R+0hNpSq015ZtRWzCCWhKfF/qnaYhd5zA769zr3vSvGKlvdqjBs
-zT4++Bbh2LBzUnvEalPynNJrg0su18fXXsR4V61LqehPSmmDZ9xyVvrcQ5yyeumZfXmTnv1d
-f0en1WNOmYSCW/ddHrWxsiW5C+5M2R3DSmeO3WVEbGGOt+ZXWJCOT7nFJrlSJzZwYgeQCbXa
-quY12xqb2+Pfp2c/tmnHI/Yk5EtiVpZQv4bwN8lxpVavMfvCQwz5F8fK/4yadELYsbjFK5pj
-ZqzAMrvQ+mQqWyVOi1r9dFR8bvEFUEsBAhcLFAAAAAgA9q5eTVRZZy+PAQAAxAQAAAcACQAA
-AAAAAAAAAACAAAAAAHN0ci5kYXRVVAUAB1/T2FtQSwUGAAAAAAEAAQA+AAAAxQEAAAAA
-</Image>
+				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAMq5Xk0QMB7zigEAAMgEAAAHABEAc3RyLmRhdFVUDQAHveXYW73l2Fu95dhb
+pVPLSsNAFD1bBf9hSDcVxOhSxUU0VQKpQim4lKS2TaBNQqJClf67505e0zaUgAyT+5j7PPfG
+hg0FFxM4eCPn4IVfD2NyzxiRf+LbK2V5E8mDT/1FZes2PiPyHqaUHrSFotahXxnDI/VpcYZT
+fQtECJBhztc1uRhJ8/bbcCfIaTHDJy0SLLGiNMSVzl5+r0lN7hx32lNVJ8AHT4EvhDs5h7AY
+NSIf6/xLcta/IyaU1rrilDSjlDOLaBLS4/HrW+dRO9H3az20blFrdV2njVHW7OCHvQjOitOT
+2iNWmxLrlFYb3PKYNo6eR4xvLbnk6hml5DZ4xyP3xeed4JLVy9zazk16Y1AThf2Kd4+tN9Zi
+TtmGGluzL4tSqNGS3DV2qpmOYqULQ28iIrqgilfwKyjIxOe8opNcqeHrGb5jyJaWUt7RzbZD
+Z874+PYc+vadeMSZBOwkZmUJ5XsIfrMqrtRq9UZfcIgh/2Oo8V9QkkkIOmXcuov+MTNWUCK7
+0vXJVg6aOANK3dvR4rnFH1BLAQIXCxQAAAAIAMq5Xk0QMB7zigEAAMgEAAAHAAkAAAAAAAAA
+AAAAgAAAAABzdHIuZGF0VVQFAAe95dhbUEsFBgAAAAABAAEAPgAAAMABAAAAAA==</Image>
 				<AppliesTo>
 					<Apply type="Component">
 						<Property name="isIndirectlyInstantiated" value="true"/>
@@ -83,16 +82,16 @@ AAAAAAAAAACAAAAAAHN0ci5kYXRVVAUAB1/T2FtQSwUGAAAAAAEAAQA+AAAAxQEAAAAA
 				</TaggedValues>
 			</Stereotype>
 			<Stereotype name="AzureTrafficManager" notes="" cx="174" cy="70" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
-				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAAyvXk21CYwSgwEAALYEAAAHABEAc3RyLmRhdFVUDQAHdtPYW3bT2Ft209hb
-lVNNS8NAEH1XBf/Dkl4qiNGjiodIqwSqgggeJa1tEkiTkOhBpf/dN7v52JiokWWzM7Mzb2be
-bFy4UJjhAR6eKHm449fHLaUbzClf8+6eutyJ5mNB+1HlO2ti5pR9PFK70h6KVo9xBsPnuaDH
-Afb1LhEhQI41b7eUYqTN3Wcj7aGgxwqv9EgRIqE2xYnObr6nPG3pEBc6UlUrwAtXiTcsOzmn
-cIgaUY51/pCSo3HOKjw5/4OWUtvqajOeObWCGcSS8jTYP1Vb7zqP6qB/r7Pv3TLW2oZWi2Fq
-9vDBXoRjxclJ7RGrzchzRq93nHN1fQrGb7hi+ipOV+ZiEAscs16Zkul1zJT+rtjV79Mhvsy+
-ZtPuxKG21PxI7pot1cxDsZeNZbc5EFtQ4ZX8St8y4zW32CRXZsX6Vmy39343uwGbPdXf30s/
-duyMIzwTK2H1IZEULiH8rSpcqdUZzb7wEOu/b6n5l7nLJIQdg1t3MR4zZwWG2UTXJ+9w0uBM
-qA2/jpbPHb4AUEsBAhcLFAAAAAgADK9eTbUJjBKDAQAAtgQAAAcACQAAAAAAAAAAAACAAAAA
-AHN0ci5kYXRVVAUAB3bT2FtQSwUGAAAAAAEAAQA+AAAAuQEAAAAA</Image>
+				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAP65Xk0gVax6ggEAAKwEAAAHABEAc3RyLmRhdFVUDQAHE+bYWxPm2FsT5thb
+pVNNS8NAEH1XBf/Dkl4qiNGjiodIqwSqggg9SlLbJJAmIdGDSv+7b3bzsWlqKciw2ZnZmbcz
+bzYuXChM8AIPc2oenvj18UjtAVPq9zx7pi1nYvmY0X9Wx07anCl1H6+07nSEotdjnsHwuc8Y
+cYJjvSrECFBgydM1tQRZe/bTakcoGbHAByMyREhpjXGhbzffS+62doobnalqCfBOqfCJsHfn
+GA5RY+qJvj+i5vwbMaO11hXn3AtaJW8RT8Z9P36zmntUD3271mF0x1rnM9JlmSo9fLN6YVZx
+XlJtzPpyspsz6gvXlH5MyfwVJWGs4kxlGgaxxDkrlNl03dn7lbXbnW7X2BdXv0qH+DLxhj+7
+E4dWqBmRuxt+VDsBxV5Wlt/mQHxBjVfxK33LVJdc4pO7civXt3L7vQ+72ezw2XPc/0KGuX9P
+tS8x3oiVsvqISAq3EP4WNa7U6hzMvvCQ6H8u1PzL3GUSwo7Bbbo4HLNgBYbZVNcn73DU4oxo
+7X4dHZ8b/AJQSwECFwsUAAAACAD+uV5NIFWseoIBAACsBAAABwAJAAAAAAAAAAAAAIAAAAAA
+c3RyLmRhdFVUBQAHE+bYW1BLBQYAAAAAAQABAD4AAAC4AQAAAAA=</Image>
 				<AppliesTo>
 					<Apply type="Component">
 						<Property name="isIndirectlyInstantiated" value="true"/>
@@ -100,16 +99,16 @@ AHN0ci5kYXRVVAUAB3bT2FtQSwUGAAAAAAEAAQA+AAAAuQEAAAAA</Image>
 				</AppliesTo>
 			</Stereotype>
 			<Stereotype name="AzureAppService" notes="" cx="174" cy="70" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
-				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIABCvXk0nUJDdhQEAAK4EAAAHABEAc3RyLmRhdFVUDQAHiNPYW4jT2FuI09hb
-lVNNS8NAEH1XBf/Dkl4qiNGjiodIqwRaBS14lLS2SSBNQqKCSv+7b3bzsbVRI8tmPnb2zcyb
-jQsXCiPcw8MjNQ+3/PqYUrvBmPo1z+5oy5lYPib0H1Wxo+bOmLqPGa0rHaHo9XjPYPiUE0Yc
-YF/vEhEC5FjydE0tRtqcfTbaHgpGLPDCiBQhElpDnOjs5ntKaWuHuNA3VbUCPHOVeMV8K+cQ
-DlEj6rHOH1JzNM5ZhSfyP2gprbWuNqPMaRXMIJ6U0mD/VG296zxqC/17nbvRLWOtr2u1GKZm
-Dx/sRThWnJzUHrHajDxnjHrHOZcd47GinPKBVoE34i2oHdMn0zE99pnO35W6+l06RJeZ1yza
-HTi05poXyV2zpJo5KPawsvx27+ILKrySX+lXZrvkFp/kyqy7vnV3CnmLxio6utl0+Oxp/v5O
-du/2nW2EJ2IlrD4kksIlhD+Zj+BKrU5v9oWHWP91c83/ipZMQtgxuHUX/TFzVmCYTXR98v4G
-Dc6AVvfraPnc4AtQSwECFwsUAAAACAAQr15NJ1CQ3YUBAACuBAAABwAJAAAAAAAAAAAAAIAA
-AAAAc3RyLmRhdFVUBQAHiNPYW1BLBQYAAAAAAQABAD4AAAC7AQAAAAA=</Image>
+				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAKi6Xk1EpAvwggEAALIEAAAHABEAc3RyLmRhdFVUDQAHYOfYW2Dn2Ftg59hb
+pVNNS8NAEH1XBf/Dkl4qiNGjiodIqwRaBS14lKS2SSBNQqKCSv+7bzZfmzaUgCyb+djZNzNv
+NjZsKEzwDAev1Bw88utiTu0BU+r3PHuiLWdiuZjRf1bFTpo7U+ouFrTudISi1+G9EsOlnDHi
+BMd6FwjhIcOKpxtqEZLm7LfRjpAzYokPRiQIENMa40JnL7+XlKZ2iht9U1XLwztXgU/4nZxj
+WEQNqUc6f0DN+jdiQmujK04pM1o5s4gnoTyMX+86j+qg79a6H92y1vr6VotR1uzgh70Iz4rT
+k9pDVpuS65RR37jmMmMcVpRRvtDK8UW8JbVz+mRCbY+mvDKk2e9ubd1l67dpEV3mXrNodmDR
+8jUvkrtmSTVzUOxhbfjN3sXnVXgFv9KvzHbFLT7JlRp3XePuHPIeSyvv6Wbb4zOnefid7N8d
+OtsQb8SKWX1AJIVbCH8yH8GVWq3B7AsPkf7zfM3/mpZMQtgpcesuhmNmrKBkNtb1yfsbNTgj
+Wv2vo+Vziz9QSwECFwsUAAAACACoul5NRKQL8IIBAACyBAAABwAJAAAAAAAAAAAAAIAAAAAA
+c3RyLmRhdFVUBQAHYOfYW1BLBQYAAAAAAQABAD4AAAC4AQAAAAA=</Image>
 				<AppliesTo>
 					<Apply type="Component">
 						<Property name="isIndirectlyInstantiated" value="true"/>
@@ -117,16 +116,16 @@ AAAAc3RyLmRhdFVUBQAHiNPYW1BLBQYAAAAAAQABAD4AAAC7AQAAAAA=</Image>
 				</AppliesTo>
 			</Stereotype>
 			<Stereotype name="AzureApplicationGateway" notes="" cx="174" cy="70" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
-				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAACvXk3L8bNqjQEAAL4EAAAHABEAc3RyLmRhdFVUDQAHoNPYW6DT2Fug09hb
-lVNNS8NAEH1XBf/Dkl4qiNWjiodIawm0CiJ4lLamSaBNQqtIlf5338zmY2ujRpbNzszOvpl5
-M+mhB4M+HuDjiZKPO34DjCkNMaB8y7t76nInWoAR7SeFb796M6Ac4JHajXoYWn2+sxgBzxE9
-jnCoe40YE+QIebuklCCt7j4r6QAreszwSo8UERbUujjT6PZ7ztOVjnGlL02xJnjhWuMN052Y
-XXhEjSknGj+i5CnORYEn53/QUmpLzTbjmVNbMYJYUp4W+6dsy13GMTvo3/Pc964Zq21Nq8aw
-Ofv4YC3CsWHnJPeY2WbkOaPXBpdcro/PjHLeJvScMK+EfintQ9VCvPPc4JQ+0i1bc5tu/Z15
-T+fUYwyZgZJVtyKP2lR5ktgla6bqi2Guc8fuciE2qUCsa36lful1yC02iZU5bwPn7Rgym1Zb
-NVSzbbC53f19bvbftu11jGdiSa8i7dE1hL9ZgSu5eq3ZFx4SyF84Vf7n1KQTwo7FLatoj5kz
-A8vsQvOTeexUOB1qzdNR87nFF1BLAQIXCxQAAAAIAACvXk3L8bNqjQEAAL4EAAAHAAkAAAAA
-AAAAAAAAgAAAAABzdHIuZGF0VVQFAAeg09hbUEsFBgAAAAABAAEAPgAAAMMBAAAAAA==</Image>
+				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAGC8Xk3XdAI/iAEAAMIEAAAHABEAc3RyLmRhdFVUDQAHxOrYW8Tq2FvE6thb
+pVPLSsNAFD1bBf9hSDcVxOhSxUWktQRaBRFcSlLTJNAmIVGkSv/dcyevSRtKQIbJfcx9nntj
+w4bCBC9w8EbOwRO/LhbkZpiSf+TbM2V5E8nFnPqLynbS+EzJu3il9KAtFLUO/coYLumcFmc4
+1bdABA8ZAr5uyMVImrffhjtBToslPmmRIMSa0hhXOnv5vSY1uXPcaU9VHQ8fPAW+4HdyjmEx
+akQ+1vlDcta/IyaUNrrilDSjlDOLaBLS4/HrW+dRnej7tR5at6i1ur7TxihrdvDDXgRnxelJ
+7RGrTYl1SqstbnlMG4cVZXyNaemxrph2CfUzLQX4Jt3ikjYysbZnk94Y1Ox/v9busfWuWswh
+e1CjanZkUfI1TpK7Rk01c1GsdWXoTSxEJx2ItuBX+pdZB7yik1yp4esavgvIfpZS3tPNrkdn
+Tvf43hz6Dp11hHfGklmFekb3EPyWVVyp1RqMvuAQQ/5EX+O/oiSTEHTKuHUXw2NmrKBEdq3r
+k30cNXFGlPq3o8Vzhz9QSwECFwsUAAAACABgvF5N13QCP4gBAADCBAAABwAJAAAAAAAAAAAA
+AIAAAAAAc3RyLmRhdFVUBQAHxOrYW1BLBQYAAAAAAQABAD4AAAC+AQAAAAA=</Image>
 				<AppliesTo>
 					<Apply type="Component">
 						<Property name="isIndirectlyInstantiated" value="true"/>
@@ -134,16 +133,16 @@ AAAAAAAAgAAAAABzdHIuZGF0VVQFAAeg09hbUEsFBgAAAAABAAEAPgAAAMMBAAAAAA==</Image>
 				</AppliesTo>
 			</Stereotype>
 			<Stereotype name="AzureCosmosDB" notes="" cx="174" cy="70" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
-				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAC6vXk1LaT/3jAEAAMIEAAAHABEAc3RyLmRhdFVUDQAHs9PYW7PT2Fuz09hb
-lVJNS8NAEH1XBf/Dkl4qqNWjiodIqgRaBSl4lCZtk0CahEYPKv3vvtnNx9ZGjSy7OzM7++bt
-mx1hBAUPT3DxTMvFA1cfU1r3GNO+49kjfTkTz8eE8ZMq12vujGn7mNG71RmKUZf3DIbPfcKM
-IxzqWSLGHAWWPF3TSpA1Z5+NdYANM0K8MiNDhJTeEOe6ulkvuNvWMa71TVWNORYcJd4Q7NQc
-wiFqTDvR9SNajsa5rPBk/w9aRm+t2ebcC3obVpBIxt1g/8S2nnUdtYP+ned+dqtYG+saLYbh
-7OKDbxGNFTsn3GOyzalzzqx3XHHYOR7jIb36VR57rXDKuSCudCngLHl6Ru7SMfPuPh37m/1I
-/1WH6PIPag72qxx6gdZKatfKqaY3ivxXVtzWQ2LyBomWXEUD6feSU2JSK7fu+tbdKeR/Gm/T
-8ZptR8zu8O9/Z/9u337HeCFWSvYRkRRuIPqFFa5wdXqrLzokVY9F/xU96YSoY3DrV/THLMjA
-KJtqfvInBw3OgF7372j13OILUEsBAhcLFAAAAAgALq9eTUtpP/eMAQAAwgQAAAcACQAAAAAA
-AAAAAACAAAAAAHN0ci5kYXRVVAUAB7PT2FtQSwUGAAAAAAEAAQA+AAAAwgEAAAAA</Image>
+				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAIy8Xk0xGwtIiQEAAMYEAAAHABEAc3RyLmRhdFVUDQAH9urYW/bq2Fv26thb
+pVJNS8NAEH1XBf/Dkl4qqNGjiodIqgRaBSl4lDZtk0CahEQPKv3vvtl8bdpQArLszsfOvpl5
+szZsKLh4g4N3ag5eeHqYUXvGhPoT715py51YHqb0X1SxbvNmQt3DnNajjlD0OnxXYniUU0ac
+4VTvAiEWyLDm7ZZahKS5+220E+SM8PHJiAQBYlpjXOvs5XlDaWrnuNcvVbUWWHEV+MKyk3MM
+i6gh9UjnD6hZ/0ZMaG11xSllRitnFvEklMfx613nUR30/VoPo1vWWl/fajHKmh38sBfhWXF6
+UnvIalNynTLqG3dcZoxLv0+r7srlvBUuuVfElUktuQveXrF2mVrbtylvDWlysF9vd9n6v1pE
+l79Q12B2ZdFaaq4kd82camajWP/G8Jt8iE96EG/BUziQea+5xSe5UuOtZ7ydQf5oaeU93ex6
+fOaEj/+dw7dD5x3ig1gxqw+IpPAA4c+vcKVWazD7wkNUzVj439CSSQg7JW7dxXDMjBWUzMa6
+PvmTowZnRKv/d7R87vAHUEsBAhcLFAAAAAgAjLxeTTEbC0iJAQAAxgQAAAcACQAAAAAAAAAA
+AACAAAAAAHN0ci5kYXRVVAUAB/bq2FtQSwUGAAAAAAEAAQA+AAAAvwEAAAAA</Image>
 				<AppliesTo>
 					<Apply type="Component">
 						<Property name="isIndirectlyInstantiated" value="true"/>
