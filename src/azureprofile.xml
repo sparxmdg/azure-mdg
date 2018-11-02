@@ -149,6 +149,23 @@ AACAAAAAAHN0ci5kYXRVVAUAB/bq2FtQSwUGAAAAAAEAAQA+AAAAvwEAAAAA</Image>
 					</Apply>
 				</AppliesTo>
 			</Stereotype>
+			<Stereotype name="AzureResourceGroup" notes="" cx="174" cy="70" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAFSMYk3nFX7NgQEAAKwEAAAHABEAc3RyLmRhdFVUDQAHsorcW7KK3Fuyitxb
+pVNNS8NAEH1XBf/Dkl4qiNGjiodIawm0CkXoUZLaJoE0CYkeVPrffbP52rShBGTZzMfOvpl5
+s7FhQ2GCJRysqDl44dfFgtoMU+rPPHulLWdiuZjTf1XFTpo7U+ou3mg96QhFr8N7JYZLOWfE
+Bc71LhDCQ4YNT3fUIiTN2W+jnSFnxBqfjEgQIKY1xo3OXn5vKU3tEg/6pqqWhw+uAl/wOznH
+sIgaUo90/oCa9W/EhNZOV5xSZrRyZhFPQnkav951HtVBP6z1OLplrfX1rRajrNnBD3sRnhWn
+J7WHrDYl1ymjvnHPtaS/oC1xax05oyZ2hmtumU3bnSnvDGl2elhVd9n6VVrMJBOv+TNrt2j5
+mhHJXfOjmgkoVrc1/GbX4vMqvIJf6VSmuuEWn+RKjbuucXcBeYmllfd0s+/xmXM8/UKO7w6d
+aoh3YsWsPiCSwiOEP5mV4Eqt1mD2hYdI/3O+5n9LSyYh7JS4dRfDMTNWUDIb6/rk5Y0anBGt
+/tfR8rnHH1BLAQIXCxQAAAAIAFSMYk3nFX7NgQEAAKwEAAAHAAkAAAAAAAAAAAAAgAAAAABz
+dHIuZGF0VVQFAAeyitxbUEsFBgAAAAABAAEAPgAAALcBAAAAAA==</Image>
+				<AppliesTo>
+					<Apply type="Component">
+						<Property name="isIndirectlyInstantiated" value="true"/>
+					</Apply>
+				</AppliesTo>
+			</Stereotype>
 		</Stereotypes>
 		<TaggedValueTypes/>
 	</Content>
