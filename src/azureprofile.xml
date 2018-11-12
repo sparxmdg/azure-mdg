@@ -166,6 +166,40 @@ dHIuZGF0VVQFAAeyitxbUEsFBgAAAAABAAEAPgAAALcBAAAAAA==</Image>
 					</Apply>
 				</AppliesTo>
 			</Stereotype>
+			<Stereotype name="AzureEventHubs" notes="" cx="174" cy="70" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAESBak23IgabfwEAALAEAAAHABEAc3RyLmRhdFVUDQAH2gLnW9oC51vaAudb
+pVNNS8NAEH1XBf/Dkl4qiNGjiodIowZaBSl4lKa2SSBNQqKCSv+7bzZfmzaUgCyb+djZNzNv
+NjZsKEzwAgev1Bw88ethRu0BLvV7nj3TljOxPEzpP6tiJ80dl7qHOa07HaHodXivxPAop4w4
+wbHeBUIskGHF0w21CElz9ttoR8gZscQHIxIEiGmNcaGzl99LSlM7xY2+qaq1wDtXgU/4nZxj
+WEQNqUc6f0DN+jdiQmujK04pM1o5s4gnoTyMX+86j+qg79a6H92y1vr6VotR1uzgh70Iz4rT
+k9pDVpuS65RR37jmMmNcfFX9KDxWLJyzSplP26EprwxpdrtbWXfZ+mVazCVTrzk067do+ZoV
+yV1zpJopKHawNvxm5+JbVHgFv9KtTHbFLT7JlRp3PePuDPIaSyvv6Wbb4zNnefiV7N8dOtkQ
+b8SKWX1AJIVbCH/LCldqtQazLzxE+r/zNf9rWjIJYafErbsYjpmxgpLZWNcnr2/U4Ixo9b+O
+ls8t/gBQSwECFwsUAAAACABEgWpNtyIGm38BAACwBAAABwAJAAAAAAAAAAAAAIAAAAAAc3Ry
+LmRhdFVUBQAH2gLnW1BLBQYAAAAAAQABAD4AAAC1AQAAAAA=</Image>
+				<AppliesTo>
+					<Apply type="Component">
+						<Property name="isIndirectlyInstantiated" value="true"/>
+					</Apply>
+				</AppliesTo>
+			</Stereotype>
+			<Stereotype name="AzureDataLake" notes="" cx="174" cy="70" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIALCBak2kDBJohQEAALoEAAAHABEAc3RyLmRhdFVUDQAHxAPnW8QD51vEA+db
+pVLBSsNAEH1XBf9hSS8VxOhRxUMkVQKtghY8SlvbJJgmIdGDSv/dN5Mm2bahFGTZ3ZnZmTcz
+b9aFCwMfz/DwSsnDI88AI0oPGFC+59sTdXkTLcCQ9rO1r9/EDCgHGFO7Uw9Dq8e4CiPgPaTH
+CY51l4gwQY45X5eUYqTN228jHaGgxwyf9EgRIqHWx4Vmr85L3rZ0ihuNNOs1wTtXiS9MN3L2
+4RA1ohxr/pCS82/ElNpSK85459QKZhFLyns/fr3rPGYDfbvWXe+WtdbWtVqMqmYPP+xFeDac
+ntQesdqMXGf0+sY1l+3jM1rmYTjPCT7U9kJLpu/nrFcm1fZq31fWbfe9XePmcvWPOkSX+dds
+2p041KbKj+Su2TLNPAyrW1h2mwOxSUdiLXlK3zLjObfYJFdmxQZW7AjyLyut6Ohm1WGzp7r/
+v+zGHjrjCG/ESlh9SCSDWwh/szWu1OoczL7wEOvEp8r/gppMQtipcOsuDsfMWUHFbKL1yT/s
+NTg9at2/o+VzhT9QSwECFwsUAAAACACwgWpNpAwSaIUBAAC6BAAABwAJAAAAAAAAAAAAAIAA
+AAAAc3RyLmRhdFVUBQAHxAPnW1BLBQYAAAAAAQABAD4AAAC7AQAAAAA=</Image>
+				<AppliesTo>
+					<Apply type="Component">
+						<Property name="isIndirectlyInstantiated" value="true"/>
+					</Apply>
+				</AppliesTo>
+			</Stereotype>
 		</Stereotypes>
 		<TaggedValueTypes/>
 	</Content>
